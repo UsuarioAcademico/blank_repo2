@@ -1,3 +1,1 @@
-ALTERAÇÃO FEITA DIRETAMENTE NO GITHUB:
-- Data: 15/04/2026
-- Autor: UsuarioAcademico
+Alteração do Aluno 1: qua 15 abr 2026 16:14:45 -03
